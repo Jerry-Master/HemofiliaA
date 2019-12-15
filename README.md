@@ -1,4 +1,4 @@
-### Hemofilia A Adquirida
+# Hemofilia A Adquirida
 ## Inspiration
 No sabíamos gran cosa de clustering así que dijimos, ¿qué algoritmo conocemos? K-means. Y pensamos una manera de aplicarlo a este contexto.
 ## What it does
